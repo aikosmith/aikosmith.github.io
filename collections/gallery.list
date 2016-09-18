@@ -37,7 +37,7 @@
     </div>
 
     <div id="simpleControls" class="gallery-controls{.section items.1}{.or} hidden{.end}">
-        <span class="control prev-slide">prev</span> / <span class="control next-slide">next</span>
+        <span class="control prev-slide">préc.</span> / <span class="control next-slide">suiv.</span>
     </div>
 
     <div id="numberControls" class="gallery-controls{.section items.1}{.or} hidden{.end}">{.repeated section items}<span class="number">{@index} </span>{.end}</div>
